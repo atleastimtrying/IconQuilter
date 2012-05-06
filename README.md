@@ -1,7 +1,7 @@
-danders
+twitter quilter
 =======
 
-Dan and Anders Are Working together at iphack!
+A simple sinatra app that uses the twitter api to get your followers then some coffeescript stitches all their profile pictures together in a canvas element.
 
 Hullo!
 
